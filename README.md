@@ -1,2 +1,2 @@
-# .Net-Application 
-Simple Feed Reader 
+# Simple Feed Reader
+.Net Application
